@@ -4,7 +4,7 @@
 
 
 
-#This project aims to integrate the skills and concepts learned in the first two projects into a
+This project aims to integrate the skills and concepts learned in the first two projects into a
 comprehensive Information Retrieval (IR) chatbot.
 
 
